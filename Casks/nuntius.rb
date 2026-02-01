@@ -1,6 +1,6 @@
 cask "nuntius" do
-  version "1.0.0"
-  sha256 "9b6985e53113d9dec6024250fd1364f4933919af137d17907667985dd466a7c6"
+  version "1.0.1"
+  sha256 "c270107740314a613944eefefce2ee6a5972909d05fbb17890501ecd16290228"
 
   url "https://github.com/chrismatix/nuntius/releases/download/v#{version}/Nuntius-#{version}.dmg",
       verified: "github.com/chrismatix/nuntius/"
